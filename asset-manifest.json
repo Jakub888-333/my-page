@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-page/static/css/main.964c8c39.css",
+    "main.js": "/my-page/static/js/main.69bf91b8.js",
+    "static/js/787.42a171f0.chunk.js": "/my-page/static/js/787.42a171f0.chunk.js",
+    "static/media/ciel.jpg": "/my-page/static/media/ciel.ec75450d416515185f75.jpg",
+    "static/media/coUzViem.jpg": "/my-page/static/media/coUzViem.d186608d8e7af28487a1.jpg",
+    "static/media/zamestPortal.png": "/my-page/static/media/zamestPortal.3079dcefe44a586a53fa.png",
+    "static/media/pismenaACicsla.png": "/my-page/static/media/pismenaACicsla.40694095cd7a4e5be957.png",
+    "static/media/paperCV.pdf": "/my-page/static/media/paperCV.02864d881eddb6c0070e.pdf",
+    "static/media/salonMonika.png": "/my-page/static/media/salonMonika.72874af159d1104ea7e2.png",
+    "static/media/oMne.png": "/my-page/static/media/oMne.7ad3f951287b55da6090.png",
+    "static/media/dashboard.png": "/my-page/static/media/dashboard.40a64c88a0fed88e3177.png",
+    "static/media/oMne.jpg": "/my-page/static/media/oMne.928ca6d079d9109e368e.jpg",
+    "index.html": "/my-page/index.html",
+    "main.964c8c39.css.map": "/my-page/static/css/main.964c8c39.css.map",
+    "main.69bf91b8.js.map": "/my-page/static/js/main.69bf91b8.js.map",
+    "787.42a171f0.chunk.js.map": "/my-page/static/js/787.42a171f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964c8c39.css",
+    "static/js/main.69bf91b8.js"
+  ]
+}
