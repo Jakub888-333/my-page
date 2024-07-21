@@ -1,0 +1,40 @@
+/*   
+farby
+navbar: #1976d2
+page pozadie: #e6f9ff
+*/
+
+html,
+body, 
+#root,
+#my-app{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+#my-app{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+}
+
+#middle-box{
+    display: flex;
+    flex: 1;
+}
+
+#leftMenu{
+    background-color: #4d94ff;
+    writing-mode: vertical-rl;
+    padding: 20px 8px;
+
+}
+
+#body{
+    display: flex;
+    flex: 1;
+}
+
+
+

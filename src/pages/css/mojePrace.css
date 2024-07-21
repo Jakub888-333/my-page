@@ -1,0 +1,17 @@
+#mojePracePage{
+    background-color: chocolate;
+    width: 100%;
+    display: flex;
+    background-color: #e6f9ff;
+    flex-wrap: wrap;
+}
+
+.cards{
+    margin: 40px;
+}
+
+.pageImage{
+    border: 1px solid #bfbfbf;
+    width: 100%;
+    height: auto;
+}

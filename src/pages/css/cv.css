@@ -1,0 +1,80 @@
+#cvPage{
+    background-color: #e6f9ff;
+    height: 100%; 
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+@media (max-width: 650px){
+    #cvPage{
+        flex-wrap: wrap-reverse;
+        top: 20px;
+    }
+}
+
+
+
+#cvBoxes{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    width: 100%;
+}
+
+.cvBox{   
+    margin: 10px;
+}
+
+.cvBoxInner{
+    display: flex; 
+    flex-direction: row;
+    background-color: #fff;
+    align-items: stretch;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.cvBoxName{
+    background-color: #1976d2;
+    color:#fff;
+    display: inline-block;
+    border: 1px solid #1976d2;
+    border-radius: 5px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.cvBoxName:hover{
+    background-color: #004d99;
+}
+
+.cvBoxText{
+    width: 90%;
+    padding: 15px;
+}
+
+.cvBoxPicture {
+    width: 10%;
+    background-color: #1976d2;
+    border: 1px solid #1976d2;
+    border: 1px solid #1976d2;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+
+  #buttonDownloadCV{
+    margin: 15px;
+    cursor: pointer;
+  }
+
+  @media (max-width: 650px){
+    #buttonContainer{
+        margin-top: 20px;
+    }
+  }
+

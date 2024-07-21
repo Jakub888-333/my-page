@@ -1,0 +1,18 @@
+#navbar{
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+}
+
+
+.MuiBox-root{
+    margin-left: 30px;
+}
+
+.MuiTouchRipple-root{
+    color: black;
+}
+
+#contactIcon{
+    cursor: pointer;
+}
